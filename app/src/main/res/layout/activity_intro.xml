@@ -44,11 +44,11 @@
             android:id="@+id/textView"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Welcome \n to the Dashboard App"
-            android:textSize="37sp"
-            android:textColor="@color/dark_blue"
-            android:textStyle="bold"
+            android:text="Welcome \n to the News App"
             android:textAlignment="center"
+            android:textColor="@color/dark_blue"
+            android:textSize="37sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView" />
@@ -60,12 +60,11 @@
             android:layout_marginStart="32dp"
             android:layout_marginTop="32dp"
             android:layout_marginEnd="32dp"
-            android:text="This tutorial video will show you how to create an app with android material Modern Dashboard page and intro activity and detail activity.
-Write in the comment section if you have any Question!
-For more awesome android tutorial videos please subscribe to this channel and don't forget to click the bell icon!"
+            android:text="Lets explore what your are really interested in!"
             android:textAlignment="center"
             android:textColor="#707E91"
             android:textSize="20sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView" />
